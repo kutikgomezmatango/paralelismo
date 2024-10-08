@@ -56,3 +56,4 @@ if __name__ == "__main__":
     cadena = "asdhhashdjkasdhkjahñ"
     num_hilos = int(input("Introduce el número de hilos (1-8): "))
     ejecutar_busqueda(cadena, num_hilos)
+#cambios realizado
