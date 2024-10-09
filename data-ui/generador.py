@@ -15,5 +15,5 @@ def guardar_adn_persona(nombre_archivo, longitud):
 # Generar un archivo con ADN de una persona simulado
 if __name__ == "__main__":
     nombre_archivo = "data-ui/adn_persona.txt"  # Ruta para guardar el archivo en 'data-ui'
-    longitud_adn = 100000000  # Longitud de la secuencia de ADN de la persona
+    longitud_adn = 1000  # Longitud de la secuencia de ADN de la persona
     guardar_adn_persona(nombre_archivo, longitud_adn)
